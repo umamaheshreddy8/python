@@ -1,4 +1,4 @@
-#
+#Write a program to find all prime numbers between 1 to 100.
 def is_prime(n):
     if n < 2:
         return False
