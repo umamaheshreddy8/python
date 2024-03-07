@@ -1,3 +1,4 @@
+#Write a Python program to check if a given number is a perfect number.
 #A number is a perfect number if is equal to sum of its proper divisors, that is, sum of its positive divisors excluding the number itself. 
 list=[]
 n=int(input("enter a number to check"))
